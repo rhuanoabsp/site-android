@@ -26,6 +26,7 @@
 body{
     font-family: var(--fonte0);
     max-width: 1200px;
+    min-width: 444px;
     margin: auto;
     background-color: var(--cor0);
 }
@@ -74,7 +75,6 @@ nav > a:hover{
 }
 main{
     max-width: 1000px;
-    min-width: 444px;
     margin: auto;
     background-color: white;
     text-align: justify;
